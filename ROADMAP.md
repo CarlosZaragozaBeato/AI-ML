@@ -4,13 +4,10 @@ This roadmap prioritizes foundational knowledge and lower-level concepts, crucia
 
 **[[1. Foundational Mathematics]]:**
 
-* **Linear Algebra:**
+* **[[Linear Algebra]]:**
     * **Key Concepts:** Vectors, matrices, eigenvalues/eigenvectors, singular value decomposition (SVD), linear transformations, vector spaces, subspaces.
-* **Calculus:**
+* **[[Calculus]]:**
     * **Key Concepts:** Derivatives, integrals, partial derivatives, gradient descent, chain rule, multivariable calculus.
-    * **Resources:** 
-        * **Online Courses:** Coursera (Calculus 1, Calculus 2), edX (Calculus: Single Variable), Khan Academy (Calculus)
-        * **Textbooks:** "Calculus" by James Stewart
 * **Probability and Statistics:**
     * **Key Concepts:** Probability distributions (normal, binomial, etc.), statistical inference, hypothesis testing, Bayesian inference, random variables, expectation, variance.
     * **Resources:** 
